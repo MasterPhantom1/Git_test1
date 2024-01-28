@@ -1,1 +1,2 @@
-Hello this is me "re doing odin
+
+Hello this is me re doing the Odin project
